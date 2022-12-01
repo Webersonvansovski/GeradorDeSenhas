@@ -1,6 +1,6 @@
 # GeradorDeSenhas
  Gerador de Senhas aleatórias com python
-  - Gera uma senha com segura
+  - Gera uma senha segura
 
 ## Biblíotecas:
   - random
